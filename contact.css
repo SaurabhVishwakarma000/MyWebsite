@@ -1,0 +1,31 @@
+        body {
+            background-color: #020617;
+            margin: 0;
+            padding: 0;
+        }
+        .contact-info {
+            width: 60%;
+            margin: 0 auto;
+            padding: 50px;
+            background-color: #f1ecec;
+            border-radius: 10px;
+            margin-top: 300px;
+            color: #020617;
+        }
+        .contact-heading {
+            /* color: white; */
+            font-size:22px;
+            text-decoration: underline;
+            }
+            .contact-para {
+                /* color: white; */
+                font-size: 16px;
+            }
+            .email-1 {
+                /* color: white; */
+                text-decoration: none;
+            }
+            .contact-no-1 {
+                /* color: white; */
+                text-decoration: none;
+            }

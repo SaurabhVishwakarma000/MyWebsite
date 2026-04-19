@@ -1,0 +1,65 @@
+              body {
+        margin: 0;
+        padding: 0;
+        background-color: #020617;
+      }
+
+      p {
+        color: white;
+      }
+.profile-pic {
+width: 300px;
+height: 600px;
+border-radius: 1px;
+position: relative;
+left: 3%;
+bottom: 40px;
+border-radius: 20px;
+border: 1px solid black;
+
+}
+      .box-1 {
+        /* display: flex; */
+        /* justify-content: center; */
+        /* align-items: center; */
+        height: 70vh;
+        background-color: antiquewhite;
+        margin-left:15%;
+        margin-right: 15%;
+        margin-top: 12%;
+        border-radius: 10px;
+        /* margin-bottom: 10%; */
+
+      }
+      .about-container {
+        width: 600px;
+        position: relative;
+        left: 37%;
+        bottom: 95%;
+      }
+.aboutme {
+  color: #020617;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.content {
+  color: #020617;
+  font-size: 25px;
+}
+
+.resume-btn {
+  background-color: #edcc73;
+  border-radius: 20px;
+  border: none;
+  padding: 10px 20px;
+  color: #020617;
+  font-size: 20px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.resume-btn:hover {
+  transform: scale(1.1);
+  transition: 1s ease-in-out;
+}
